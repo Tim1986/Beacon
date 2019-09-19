@@ -6,6 +6,8 @@ https://whispering-earth-16314.herokuapp.com/
 
 ## Overview
 
+![First Screenshot](/ss-for-readme.png)
+
 Beacon is a “meet-up” style app that allows users to create events called “beacons,” designed to help people make connections with like-minded individuals.
 
 In order to use this app, you must register and log in. When you enter your first and last name, a username will be automatically generated for you, consisting of your first name and last initial.
